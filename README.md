@@ -1,0 +1,2 @@
+# dcmviewer-privacy
+Privacy Policy
